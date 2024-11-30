@@ -1,0 +1,12 @@
+# Simple task scheduler
+
+## Runnning the scheduler
+
+1. Set the environment variables in the `.env` file
+2. Run `npm install`
+3. Run `npm start`
+
+## Environment variables
+
+- `PORT` - The port on which the server will run
+- `POSTGRES_URL` - The URL of the Postgres database
